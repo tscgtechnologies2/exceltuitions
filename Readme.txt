@@ -1,0 +1,10 @@
+Thanks for downloading this template!
+
+Template Name: iLanding
+Template URL: https://bootstrapmade.com/ilanding-bootstrap-landing-page-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
+Students Images folder = simages
+Faculty Images folder = timages
+admin user id = rajan
+admin password = password123
